@@ -1,0 +1,17 @@
+*{
+	background-color: Black
+}
+h1, h2 {
+	color: Red;
+}
+
+img {
+	border: 10px solid Red;
+	width: 300px;
+	height: 200px;
+}
+
+li, a { 
+	color: Red;
+	font-size: 19px
+}

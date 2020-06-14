@@ -1,0 +1,32 @@
+* {
+  font-family: monospace;
+  background-color: black;
+  color: Orange;
+}
+
+h1 {
+  color: Blue
+}
+h2 {
+  text-decoration: underline;
+  color: Blue  
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  vertical-align: midle;
+  border: 3px solid blue;
+}
+
+p {
+  display: inline-block;
+  width: 340px;
+  font-size: 17px;
+  padding: 5px;
+}
+
+li{
+  list-style: square;
+  font-size: 15px
+}
